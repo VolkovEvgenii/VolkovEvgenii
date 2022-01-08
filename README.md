@@ -1,4 +1,4 @@
-### Programmer from Saint-Petersburg, Russia 👋
+#### Java programmer from Saint-Petersburg
 
 <!--
 **VolkovEvgenii/VolkovEvgenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
